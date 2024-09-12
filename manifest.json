@@ -1,0 +1,11 @@
+{
+    "id": "remove-tags-plugin",
+    "name": "Remove Tags Plugin",
+    "version": "1.0.0",
+    "minAppVersion": "0.12.0",
+    "description": "Un plugin para eliminar tags desde archivos y carpetas.",
+    "author": "ONE-18",
+    "authorUrl": "https://github.com/ONE-18",
+    "isDesktopOnly": false
+}
+  
